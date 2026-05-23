@@ -22,15 +22,17 @@
 
 **CIRCUIT DIAGRAM:**
 
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/98fe6702-de50-4774-bf32-d807b4fec468" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/b33eef96-9655-40f2-9d37-0b37e7b7baab" />
+
 
 **CALCULATION:**
 
-<img width="1600" height="1494" alt="image" src="https://github.com/user-attachments/assets/c231805f-fa0e-4fc4-af10-6fc53278ddc4" />
+<img width="1600" height="1595" alt="image" src="https://github.com/user-attachments/assets/832da051-84c2-4e6c-958d-9b11dbca6597" />
 
-<img width="957" height="1574" alt="image" src="https://github.com/user-attachments/assets/c3421e47-cde6-4d89-8af3-50ccb35f51fe" />
+<img width="1080" height="1566" alt="image" src="https://github.com/user-attachments/assets/094923b7-63db-451c-9d0d-c805a2bba6c8" />
 
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/bc013f85-dd23-4a93-94c0-b1fdea56152d" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/ee0fa06b-06e3-4454-9fc0-08ac725b2434" />
+
 
 
 **PROCEDURE:** 
@@ -49,7 +51,7 @@
 
 **OBSERVATION:**
 
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/5093592f-5a17-4d5d-87d2-052b796b3134" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/ffd83279-3ed6-4bf8-9f68-0902f4b051e1" />
 
 
    **RESULT:**
